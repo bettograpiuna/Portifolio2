@@ -2,6 +2,7 @@
 
 Este é o repositório do meu portfólio profissional, uma página web moderna e responsiva desenvolvida para apresentar minha trajetória, habilidades e projetos. A página serve como meu cartão de visitas digital, conectando minha sólida carreira de mais de 20 anos em Gestão Bancária com minha nova jornada na área de Programação e Inteligência Artificial.
 
+[![Visualize o Projeto](https://img.shields.io/badge/Visualize_o_Projeto-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://bettograpiuna.github.io/Portifolio2/)
 
 
 (Dica: Substitua o link da imagem acima por uma captura de tela do seu site. Você pode fazer o upload da imagem na aba "Issues" do seu repositório e copiar o link gerado).
