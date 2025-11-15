@@ -57,7 +57,7 @@ Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 
     Git e GitHub: Para controle de versão e hospedagem do projeto.
 
-📂 Como Executar o Projeto Localmente
+📂 Como Executar o Projeto Localmente:
 
 Para visualizar ou modificar o projeto em sua máquina local, siga os passos abaixo:
 
